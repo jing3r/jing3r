@@ -1,6 +1,6 @@
 ### Привет
 Я Артём Макаров, начинающий разработчик игр на Unity.
-
+---
 ### Мои проекты:
 
 [Tower Defense (дипломный проект)](https://github.com/jing3r/TowerDefense)
