@@ -33,7 +33,7 @@
 
 ---
 ### Сертификат о прохождении обучения:
-[Разработчик игр на Unity](https://github.com/jing3r/jing3r/blob/main/documents/UnityDev.pdf)
+[Разработчик игр на Unity](https://github.com/jing3r/jing3r/blob/main/UnityDev.pdf)
 <!--
 **jing3r/jing3r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
