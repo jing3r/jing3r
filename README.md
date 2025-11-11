@@ -5,7 +5,7 @@
 
 ### Gray Cubes (Песочница)
 
-![Gameplay GIF для Gray Cubes](https://github.com/jing3r/jing3r/blob/main/GrayCubes.gif?raw=true)
+![Gameplay GIF для Gray Cubes](https://github.com/jing3r/jing3r/blob/main/GC04.gif?raw=true)
 
 Платформа для прототипирования механик сеточных головоломок и клеточных автоматов, построенная на принципах слабой связанности модулей.
 
